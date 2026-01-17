@@ -4,9 +4,9 @@
 ---
 
 ## 1. Reglas de Salud Operativa
-1. **Registro Inmediato**: Toda transacción, incidente o visita debe registrarse en el sistema al momento.
-2. **Canal Oficial**: El único medio para recibir solicitudes es el WhatsApp Business oficial.
-3. **Preventivo primero**: Se prioriza la visita programada sobre la emergencia.
+1. **Registro Asistido**: Toda transacción debe reportarse de inmediato vía WhatsApp al Bot oficial para su pre-registro automatizado.
+2. **Canal Oficial Único**: El grupo de WhatsApp es la fuente de verdad para gastos menores y cobros en efectivo; Visoor es la fuente para facturación formal.
+3. **Validación Semanal**: Los socios deben dedicar 30 minutos semanales a validar las conciliaciones sugeridas por el sistema.
 
 ## 2. Roles de Ejecución
 

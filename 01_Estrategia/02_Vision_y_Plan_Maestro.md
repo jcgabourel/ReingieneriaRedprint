@@ -10,6 +10,7 @@ Construir una empresa **ordenada, predecible y delegable**, capaz de operar con 
 2. **Si no se mide, no existe**: Registros obligatorios en sistema.
 3. **Delegación progresiva**: Liberar tiempo de socios mediante procesos y personal técnico.
 4. **Tecnología como Pilar**: Uso de **ERPNext** como plataforma central.
+5. **Automatización Inteligente**: Implementación de IA y orquestadores para eliminar la carga manual de datos.
 
 ## 3. Hoja de Ruta (Plan por Fases)
 
@@ -18,8 +19,13 @@ Construir una empresa **ordenada, predecible y delegable**, capaz de operar con 
 *   **Levantamiento**: Inventario físico real de cada impresora asignada a clientes.
 *   **Registros Base**: Control centralizado de CxC, contratos y visitas técnicas.
 
-### Fase 2: Digitalización Operativa (3–6 Meses)
+### Fase 2: Digitalización y Automatización (3–6 Meses)
 *   **Implementación de ERPNext**: Foco inicial en Clientes, Activos (equipos), Facturación y CxC.
+*   **Cerebro de Automatización**: Configuración de orquestadores (n8n/Python) e IA para:
+    *   Procesamiento automático de facturas (Visoor y Proveedores).
+    *   Asistente de WhatsApp para registro de gastos y cobros.
+    *   Conciliación bancaria inteligente.
+    *   **Monitoreo Remoto**: Conteo automatizado de páginas y alertas de insumos vía SNMP.
 *   **Atención al Cliente**: WhatsApp Business como canal único oficial.
 *   **Documentación**: Formalización de procesos mínimos repetibles.
 
